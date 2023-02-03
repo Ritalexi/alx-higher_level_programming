@@ -6,12 +6,12 @@ A class Rectangle that defines a rectangle
 
 class Rectangle:
     """
-    Rectangle: defines a rectangle
-    Attributes:
-    width: width of rectangle
-    height: height of rectangle
-    Method:
-    __init__: Initializes width and height for all instances
+        Rectangle: defines a rectangle
+        Attributes:
+            width: width of rectangle
+            height: height of rectangle
+        Method:
+             __init__: Initializes width and height for all instances
     """
 
      def __init__(self, width=0, height=0):

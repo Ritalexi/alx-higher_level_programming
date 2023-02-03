@@ -13,6 +13,7 @@ class Rectangle:
     Method:
     __init__: Initializes the width and height
     """
+
     def __init__(self, width=0, height=0):
         """
         Args:
