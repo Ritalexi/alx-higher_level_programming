@@ -4,7 +4,7 @@ A class Rectangle that defines a rectangle
 """
 
 
-Class Rectangle:
+class Rectangle:
     """
     Rectangle: defines a rectangle
     Attributes:
