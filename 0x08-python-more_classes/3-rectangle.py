@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    A class Rectangle that defines a rectangle
+A class Rectangle that defines a rectangle
 """
 
 
@@ -11,6 +11,7 @@ class Rectangle:
     width: width of the rectangle
     height: height of the rectangle
     """
+
     def __init__(self, width=0, height=0):
         """
         __init__: initialises constracter THE
